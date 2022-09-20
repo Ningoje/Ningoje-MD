@@ -1,0 +1,28 @@
+{
+  "name": "Ningoje-MD",
+  "description": "whatsapp md bot build with nodejs",
+  "repository": "https://github.com/ningoje/Ningoje-MD",
+  "logo": "https://telegra.ph/file/b9a68a3f295b47d0bd72e.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
+  "stack": "heroku-22",
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/yespark/heroku-imagemagick-buildpack"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ],
+   "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
