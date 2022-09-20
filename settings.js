@@ -23,7 +23,7 @@ global.APIKeys = {
 global.owner = ['Your Number']
 global.premium = ['Your Number']
 global.ownernomer = 'Your Number'
-global.ownername = 'Your Name''
+global.ownername = 'Your Name'
 global.region = 'Nairobi, Nairobi, Kenya'
 
     global.limitawal = {
