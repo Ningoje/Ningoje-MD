@@ -124,8 +124,8 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 <a href="https://twitter.com/@NingojePaleHivi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ningoje" height="60" width="80" /></a>
 <a href="https://fb.com/nigojepalehivi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ningoje" height="60" width="80" /></a>
 <a href="https://instagram.com/ningoje" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ningoje" height="60" width="80" /></a>
-<a href="https://www.youtube.com/c/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Ningoje" height="60" width="80" /></a>
-<a href="https://www.youtube.com/c/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Ningoje" height="60" width="80" /></a>
+<a href="https://www.youtube.com/channel/UCOR9G5fvkxFg9AyvBxieIDA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Ningoje" height="60" width="80" /></a>
+<a href="https://wa.me/254780986757?text=github" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Ningoje" height="60" width="80" /></a>
 
 
 </p>
